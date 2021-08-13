@@ -1944,6 +1944,7 @@ body{
   }
   .down{
     font-size: 10%;
+	  margin-top: -50px;
   }
   .internalcontainerL, .internalcontainerM, .internalcontainerR h4{
     text-align: center;
